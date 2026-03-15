@@ -1,0 +1,44 @@
+﻿node.exe : Environment 
+variables loaded from 
+.env
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Environment v   
+ ariables loaded fr    
+om .env:String) []    
+, RemoteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+Prisma schema loaded from prisma\schema.prisma
+Datasource "db": PostgreSQL database "JOBGENIUSAI", schema "public" at "ep-red-sky-aimn0uae-pooler.c-4.us-east-1.aws.neon.tech"
+
+- Introspecting based on datasource defined in prisma\schema.prisma
+Γ£û Introspecting based on datasource defined in prisma\schema.prisma
+
+Error: P1001
+
+Can't reach database 
+server at `ep-red-sky-a
+imn0uae-pooler.c-4.us-e
+ast-1.aws.neon.tech:543
+2`
+
+Please make sure your 
+database server is 
+running at `ep-red-sky-
+aimn0uae-pooler.c-4.us-
+east-1.aws.neon.tech:54
+32`.
+
